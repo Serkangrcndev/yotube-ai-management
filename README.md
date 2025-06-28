@@ -1,5 +1,5 @@
 # yotube-ai-management
-yapay zeka destekli yotube yönetim uygulaması / artificial intelligence powered youtube management application
+Sisteme yüklenen videoun içeriğini anlayıp katagorisine göre etkileişimin en yüksek olduğu saati bulup keşfete en hızlı düşebilmesi için açıklama ve hastaglerini kendi ekleyip bağladığınız kanala gönderir ayrıca analiz ve istatistiği de sizlere gösterir V1.0.0 sürümünde şuanlık youtube var ilerleyen süreçlerde başka platformlarada eklenecektir
 
 ![resim](https://github.com/user-attachments/assets/ad5691d7-f5e1-4e1f-abc5-11a4ab51cfe1)
 ![resim](https://github.com/user-attachments/assets/add72fb4-dd93-497c-80a0-d5303bd19110)
